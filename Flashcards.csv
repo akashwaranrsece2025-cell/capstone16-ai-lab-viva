@@ -1,0 +1,11 @@
+Front,Back,Status
+PN diode: forward bias,P-side to positive; N-side to negative.,Draft - verify locally
+PN diode: reverse saturation current,Small reverse current mainly due to minority carriers before breakdown.,Draft - verify locally
+Zener regulator connection,Reverse-biased Zener in parallel with load; series resistor limits current.,Draft - verify locally
+Zener power rating,PZ = VZ × IZ; remain within the device rating.,Draft - verify locally
+BJT CE current gain,β ≈ IC/IB in the active region.,Draft - verify locally
+BJT operating regions,Cutoff: off; active: amplification; saturation: fully on.,Draft - verify locally
+JFET control,"For n-channel JFET, more-negative VGS reduces ID.",Draft - verify locally
+JFET Shockley model,"ID = IDSS(1 − VGS/VP)^2, with consistent sign convention.",Draft - verify locally
+Inverting op-amp,Av = −Rf/Rin.,Draft - verify locally
+Non-inverting op-amp,Av = 1 + Rf/Rg.,Draft - verify locally
